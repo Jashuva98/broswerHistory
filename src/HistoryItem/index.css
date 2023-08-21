@@ -1,0 +1,35 @@
+.historyItem {
+  display: flex;
+  justify-content: space-between;
+  font-family: 'Roboto';
+  width: 100%;
+}
+.logos {
+  width: 1100px;
+  display: flex;
+  align-items: center;
+}
+.time {
+  margin-right: 5%;
+  width: 100px;
+}
+.heading {
+  color: #475569;
+  margin-right: 2%;
+}
+.domainName {
+  color: grey;
+}
+
+.img-item {
+  width: 30px;
+  height: 30px;
+  margin-right: 3%;
+}
+.delete-btn {
+  background-color: none;
+  border: none;
+  cursor: pointer;
+  margin-right: auto;
+  margin-left: 5%;
+}
